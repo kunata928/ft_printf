@@ -27,7 +27,24 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33a2fd09-4bfb-4ae1-9ff3-bcfce3b10085" name="Default Changelist" comment="" />
+    <list default="true" id="33a2fd09-4bfb-4ae1-9ff3-bcfce3b10085" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../fractol" beforeDir="false" afterPath="$PROJECT_DIR$/../fractol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_printf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/ft_printf.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/ft_printf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libft/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libft/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/libft/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libft/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/cmake-build-debug/CMakeFiles/libft.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/libft/cmake-build-debug/CMakeFiles/libft.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/cmake-build-debug/CMakeFiles/libft.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/libft/cmake-build-debug/CMakeFiles/libft.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/libft/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/libft.a" beforeDir="false" afterPath="$PROJECT_DIR$/libft/libft.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/float.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/float.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main_test.c" beforeDir="false" afterPath="$PROJECT_DIR$/main_test.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +53,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -44,9 +62,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1ep2kaE0RNPJYH76bV9vvTchAPw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -64,12 +83,15 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="libft" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="qaaa" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="libft" CONFIG_NAME="Debug">
+    <configuration name="ft_printf" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="qaaa" REDIRECT_INPUT="false" WORKING_DIR="file://$USER_HOME$/Desktop/ft_printf" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ft_printf" TARGET_NAME="ft_printf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ft_printf" RUN_TARGET_NAME="ft_printf">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -88,7 +110,13 @@
       <workItem from="1595004359306" duration="2853000" />
       <workItem from="1595008296533" duration="4138000" />
       <workItem from="1595013226873" duration="373000" />
-      <workItem from="1595094031611" duration="6408000" />
+      <workItem from="1595094031611" duration="6608000" />
+      <workItem from="1595266577699" duration="3966000" />
+      <workItem from="1595336438326" duration="277000" />
+      <workItem from="1595518645705" duration="1496000" />
+      <workItem from="1595945932336" duration="6911000" />
+      <workItem from="1596035558162" duration="1733000" />
+      <workItem from="1596046907370" duration="168000" />
     </task>
     <servers />
   </component>
@@ -111,10 +139,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1202" y="432" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595008753408">
+    <state x="208" y="442" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596047074374">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state x="1202" y="432" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1595008753408" />
+    <state x="208" y="442" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1596047074374" />
+    <state x="703" y="479" key="#ft_printf" timestamp="1595947822098">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="703" y="479" key="#ft_printf/0.23.2560.1337@0.23.2560.1337" timestamp="1595947822098" />
     <state x="1435" y="506" key="#libft" timestamp="1595008961688">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>

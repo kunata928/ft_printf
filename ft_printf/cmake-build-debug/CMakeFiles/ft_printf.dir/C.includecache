@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pmelodi/CLionProjects/ft_printf/include/ft_printf.h
+../libft/includes/libft.h
+/Users/pmelodi/CLionProjects/ft_printf/libft/includes/libft.h
+stdarg.h
+-
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/Users/pmelodi/CLionProjects/ft_printf/libft/includes/libft.h
+string.h
+-
+unistd.h
+-
+stdlib.h
+-
+
+/Users/pmelodi/CLionProjects/ft_printf/src/float.c
+../include/ft_printf.h
+/Users/pmelodi/CLionProjects/ft_printf/include/ft_printf.h
+

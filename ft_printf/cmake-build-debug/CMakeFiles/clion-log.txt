@@ -1,1 +1,4 @@
-CMakeLists.txt not found in /Users/pmelodi/CLionProjects/ft_printf Select CMakeLists.txt file...
+/private/var/folders/zz/zyxvpxvq6csfxvn_n0001hxh000c7c/T/AppTranslocation/22490EE3-A263-443B-A2B8-A8881478CC37/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/pmelodi/CLionProjects/ft_printf
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/pmelodi/CLionProjects/ft_printf/cmake-build-debug

@@ -22,6 +22,13 @@
 # define BUFF 64
 # define FLAGS "#-+ 0"
 
+typedef struct	s_double
+{
+	int			sign;
+	t_list		*digits;
+	int			exp;
+}				t_float;
+
 typedef struct	s_flags
 {
 	int			h;
@@ -29,7 +36,7 @@ typedef struct	s_flags
 	int			l;
 	int			ll;
 	int			f;
-
+	int			l1;
 }				t_types;
 
 typedef struct	s_buffer
@@ -81,5 +88,7 @@ void			add_sym(char s, t_print *data);
 void			reinit(t_print *data);
 
 int				ft_printf(const char *format, ...);
+
+void			manage_f(t_print *data);
 
 #endif
